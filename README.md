@@ -36,8 +36,8 @@ The intents are stored in `intents.json`, which includes patterns for user input
 ## Project Structure
 
 - **intents.json**: Contains the training data for the chatbot, including intents, patterns, and responses.
-- **chatbot.py**: Script to build, train, and save the machine learning model using TensorFlow.
-- **actual_chatbot.py**: Main application script that loads the model and handles real-time user interactions.
+- **chatbot.ipynb**: Script to build, train, and save the machine learning model using TensorFlow.
+- **actual_chatbot.ipynb**: Main application script that loads the model and handles real-time user interactions.
 
 ## Future Enhancements
 
